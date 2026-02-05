@@ -130,8 +130,9 @@ yesBtn.addEventListener("click", () => {
       <p>Lily-rose & Dwain</p>
       <p style="margin-top:15px; font-size:1rem; color:#ff7777;">
         Ne me donne pas la réponse,<br>
-        dis-moi juste la vie sera-t-elle belle avec toi ?
+        dis-toi juste la vie sera-t-elle belle avec toi ?
       </p>
     </div>
   `;
 });
+
